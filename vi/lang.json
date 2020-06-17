@@ -1,0 +1,76 @@
+{
+  "iso": "vi",
+  "docVersion": "2.12.X",
+  "links": {
+    "download": "Download",
+    "live_edit": "Live Edit"
+  },
+  "headerLinks": [
+    {
+      "name": "Hướng dẫn",
+      "slug": "guide",
+      "type": "dynamic",
+      "routeName": "section-slug"
+    },
+    {
+      "name": "Demo",
+      "slug": "examples",
+      "type": "dynamic",
+      "routeName": "section-slug"
+    },
+    {
+      "name": "FAQ",
+      "slug": "faq",
+      "type": "dynamic",
+      "routeName": "section-slug"
+    },
+    {
+      "name": "Tài nguyên",
+      "slug": "resources",
+      "type": "static"
+    },
+    {
+      "name": "Blog",
+      "slug": "blog",
+      "type": "static"
+    }
+  ],
+  "text": {
+    "an_error_occurred": "Lỗi ",
+    "api_page_not_found": "API không tìm thấy",
+    "please_define_title": "Hãy định nghĩa tiêu đề ở front matter",
+    "please_define_description": "Hãy định nghĩa miêu tả ở front matter",
+    "search": "Tìm (bấm \"/\" để tìm)",
+    "version": "Version"
+  },
+  "homepage": {
+    "meta": {
+      "title": "WowOrder - Quản lý Order thông minh",
+      "description": "Chuyên quản lý hàng order cho các shop. Rất nhiều chức năng tuyệt vờiđể quản lý khách hàng, đơn hàng, ship hàng,..."
+    },
+    "welcome": {
+      "get_started": "Bắt đầu",
+      "github_stars": "1K+ người đang dùng"
+    },
+    "why": {
+      "try_nuxtjs_online": "Đăng ký ngay"
+    },
+    "sponsors": {
+      "become_a_sponsor": "Ủng hộ"
+    },
+    "newsletter_form": {
+      "email": "Email",
+      "subscribing": "Đang đăng ký...",
+      "subscribe": "Đăng ký",
+      "subscribed_messages": {
+        "pre": "Đã gửi mail xác nhận cho bạn",
+        "post": "💚"
+      }
+    }
+  },
+  "guide": {
+    "release_notes": "Release Notes",
+    "contribute": "Caught a mistake or want to contribute to the documentation?",
+    "edit_on_github": "Edit this page on GitHub!"
+  }
+}
