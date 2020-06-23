@@ -1,22 +1,15 @@
 {
   "iso": "vi",
-  "docVersion": "2.12.X",
+  "docVersion": "1.0.X",
   "links": {
     "download": "Download",
     "live_edit": "Live Edit"
   },
   "headerLinks": [
     {
-      "name": "Hướng dẫn",
-      "slug": "guide",
-      "type": "dynamic",
-      "routeName": "section-slug"
-    },
-    {
-      "name": "Demo",
-      "slug": "examples",
-      "type": "dynamic",
-      "routeName": "section-slug"
+      "name": "Tính năng",
+      "slug": "feature",
+      "type": "static"
     },
     {
       "name": "FAQ",
@@ -25,13 +18,18 @@
       "routeName": "section-slug"
     },
     {
-      "name": "Tài nguyên",
-      "slug": "resources",
+      "name": "Tin tức",
+      "slug": "blog",
       "type": "static"
     },
     {
-      "name": "Blog",
-      "slug": "blog",
+      "name": "Giới thiệu",
+      "slug": "team",
+      "type": "static"
+    },
+    {
+      "name": "Liên hệ",
+      "slug": "contact",
       "type": "static"
     }
   ],
@@ -50,7 +48,7 @@
     },
     "welcome": {
       "get_started": "Bắt đầu",
-      "github_stars": "1K+ người đang dùng"
+      "github_stars": "100+ người đang dùng"
     },
     "why": {
       "try_nuxtjs_online": "Đăng ký ngay"
