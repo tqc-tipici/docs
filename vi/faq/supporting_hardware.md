@@ -1,35 +1,9 @@
 ---
-title: How to use CSS pre-processors?
-description: How to use pre-processors with Nuxt.js?
+title: Những loại phần cứng nào tương thích với WowOrder?
+description: Những loại phần cứng nào tương thích với WowOrder?
 ---
 
-Thanks to [Vue Loader](http://vue-loader.vuejs.org/en/configurations/pre-processors.html), you can use any kind of pre-processor for your `<template>`, `<script>` or `<style>`: simply use the `lang` attribute.
-
-Example of our `pages/index.vue` using [Pug](https://github.com/pugjs/pug) and [Sass](http://sass-lang.com/):
-
-```html
-<template lang="pug">
-  h1.red Hello World!
-</template>
-
-<style lang="sass">
-.red
-  color: red
-</style>
-
-<style lang="scss">
-.red {
-  color: red
-}
-</style>
-```
-
-To use these pre-processors, we need to install their webpack loaders:
-
-```bash
-npm install --save-dev pug pug-plain-loader
-```
-
-```bash
-npm install --save-dev node-sass sass-loader
-```
+## Những loại phần cứng nào tương thích với WowOrder?
+Hệ thống phần mềm hỗ trợ windows, android, ios,... với các trình duyệt phổ biến nhất hiện nay
+## Nếu không cài đặt mạng internet thì sao?
+Các doanh nghiệp có thể sử dụng mạng nội bộ để tăng tính bảo mật cho dữ liệu nhưng chi phí sẽ nhiều hơn và hỗ trợ, nâng cấp tốn chi phí
