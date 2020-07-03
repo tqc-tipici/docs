@@ -1,6 +1,6 @@
 ---
-title: "How to Deploy on AWS w/ S3 and Cloudfront?"
-description: Static Hosting on AWS with S3 and Cloudfront
+title: "WowOrder sẽ giúp bạn quản lý đơn hàng dễ dàng"
+description: quản lý đơn hàng
 ---
 
 AWS stands for Amazon Web Services.  
